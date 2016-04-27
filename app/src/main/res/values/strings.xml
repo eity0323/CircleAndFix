@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">朋友圈</string>
+
+    <string name="recorder_state_recording">录制中&#8230;</string>
+    <string name="recorder_state_min_recorded">最小录制时间.</string>
+    <string name="recorder_state_complete">录制完成.</string>
+    <string name="recorder_state_min_video_crossed">录制时长有效&#8230;</string>
+    <string name="recorder_state_press_to_record">按下开始录制&#8230;</string>
+</resources>

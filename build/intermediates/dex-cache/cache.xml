@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\exploded-aar\SEMultiImageSelector-release\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="042ab92beeeeb1a7cfa634d2fdf414bdd9b95ae5">
+        <dex dex="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\pre-dexed\debug\classes-0e2776875a523884a2ebffe6436e51c7fb8fb97b.jar" />
+    </item>
+    <item
+        jar="D:\soft\android\studio_sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-2a0133a1ada5ed5371dc717fe785b7008bdb7abe.jar" />
+    </item>
+    <item
+        jar="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\exploded-aar\com.github.danylovolokh\video-player-manager\0.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="919661fb65990cb40ac9f8b95247de43a7a4ac3c">
+        <dex dex="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\pre-dexed\debug\classes-7a915bd9ce71d460717089c1318f7f3ba7044473.jar" />
+    </item>
+    <item
+        jar="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\exploded-aar\com.alipay.euler\andfix\0.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="35a001d5b13ac507ecb16100ca6166c4c90d5f57">
+        <dex dex="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\pre-dexed\debug\classes-e53fe80b7326b33dc6c2ee96c1ca5937a009cf9e.jar" />
+    </item>
+    <item
+        jar="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\exploded-aar\com.github.danylovolokh\list-visibility-utils\0.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="02535ffed66174474b00a39ce865075342cfcaa6">
+        <dex dex="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\pre-dexed\debug\classes-60fd12664dc07b0b317980690573cf06fe698b43.jar" />
+    </item>
+    <item
+        jar="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\pre-dexed\debug\classes-c095adde215815bbda3d7d07c879bc8517607060.jar" />
+    </item>
+    <item
+        jar="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\exploded-aar\SEMultiImageSelector-release\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="831368dfdef2c9396955489e9058e6ad8a8e4244">
+        <dex dex="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-03a4d6bf0b5581883eb7aca869101bcf1e05b769.jar" />
+    </item>
+    <item
+        jar="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-31c554d33131fe9d90f62263e7c92fe02de807da.jar" />
+    </item>
+    <item
+        jar="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\pre-dexed\debug\classes-127768518be545ed60407a8fd7a84afbe7593689.jar" />
+    </item>
+    <item
+        jar="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\pre-dexed\debug\classes-6fabff61774f72d45118889d281338afe4c0a389.jar" />
+    </item>
+    <item
+        jar="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\exploded-aar\SEMultiImageSelector-release\libs\picasso-weilian.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="235cf195bf318f847e6659b658dbd2c26b696cce">
+        <dex dex="E:\suneee_work_example\CircleDemoProject\trunk\CircleDemo\app\build\intermediates\pre-dexed\debug\picasso-weilian-ccd9fee6b3ca8aabc456f1d334e4977e58538508.jar" />
+    </item>
+
+</items>
